@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js, React**
 
-- ⚡ Fun fact **I quote movies way too often**
+- ⚡ Fun fact:  **I quote movies way too often**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
