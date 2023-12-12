@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Valeriia Chavdar</h1>
-<h3 align="center">Full Stack Developer | Recent Coding Bootcamp graduate</h3>
+<h3 align="center">Full Stack Developer | Recent Le Wagon Coding Bootcamp graduate</h3>
 
 - 🌱 I’m currently learning **Node.js, React**
 
